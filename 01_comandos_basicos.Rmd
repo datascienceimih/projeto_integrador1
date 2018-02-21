@@ -1,6 +1,6 @@
 ---
 title: "PROJETO INTEGRADOR - Exercício 01"
-author: "Neylson Crepalde"
+author: "Prof. Neylson Crepalde"
 date: "2018, Fevereiro 19 - 24"
 output: pdf_document
 ---
